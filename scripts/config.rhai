@@ -1,6 +1,6 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_model = ["Attention", "Diff", "Transformer", "Restoration", "Mamba"];
-let titles_method = ["Prior", "Pretrain", "Fine-tun", "Unpaired"];
+let titles_method = ["Prior", "Pretrain", "Fine-tun", "Unpaired", "Parameter-efficient", "LoRA"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Yang Song"];
 
