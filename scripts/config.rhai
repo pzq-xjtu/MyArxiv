@@ -1,4 +1,4 @@
-let titles_type = ["Diffuse", "Bi-level", "meta-learning", "equiva", "schedule"];
+let titles_type = ["Diffuse", "Bi-level", "meta-learning", "equiva", "schedule", "autoregressive"];
 let titles_model = ["Attention", "Diffusion", "Transformer", "Restoration", "Mamba"];
 let titles_method = ["Prior", "Pretrain", "Fine-tun", "Unpaired", "Parameter-efficient", "LoRA"];
 let titles =  titles_model + titles_method + titles_type;
